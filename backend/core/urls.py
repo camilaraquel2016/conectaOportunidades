@@ -1,3 +1,7 @@
 """Roteamento raiz do projeto (camada Controller)."""
 
-urlpatterns = []
+from django.urls import include, path
+
+urlpatterns = [
+    path('api/oportunidades/', include('oportunidades.urls')),
+]
