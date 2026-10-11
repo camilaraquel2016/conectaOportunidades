@@ -1,0 +1,30 @@
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Variáveis de Ambiente
+# Credenciais (backend/.env e frontend/.env)
+.env
+
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+staticfiles/
+db.sqlite3
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+.env.local
+
+# Cache do Python / Backend
+__pycache__/
+*.pyc
+.venv/
+venv/
