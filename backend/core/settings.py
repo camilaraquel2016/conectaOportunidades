@@ -73,7 +73,11 @@ REST_FRAMEWORK = {
     'UNAUTHENTICATED_USER': None,
 }
 
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_ALL_ORIGINS = False
+
+CORS_ALLOWED_ORIGINS = [
+    'https://conecta-oportunidades-nine.vercel.app',
+]
 
 LANGUAGE_CODE = 'pt-br'
 TIME_ZONE = 'America/Sao_Paulo'
