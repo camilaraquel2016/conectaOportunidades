@@ -16,7 +16,7 @@ Essa falta de centralização gera duas grandes dores:
 
 ## 💡 2. A Solução (Pitch de 1 Frase)
 
-O **OportunizaHub** é uma plataforma web que centraliza e categoriza oportunidades de qualificação profissional e mercado de trabalho, conectando a comunidade a editais, cursos e vagas de forma simples e transparente.
+O **conectaOportunidades** é uma plataforma web que centraliza e categoriza oportunidades de qualificação profissional e mercado de trabalho, conectando a comunidade a editais, cursos e vagas de forma simples e transparente.
 
 ---
 
